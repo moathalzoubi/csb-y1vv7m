@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://moathalzoubi.github.io/csb-y1vv7m/static/css/main.6896ab3d.chunk.css",
+    "main.js": "https://moathalzoubi.github.io/csb-y1vv7m/static/js/main.5e2855a4.chunk.js",
+    "main.js.map": "https://moathalzoubi.github.io/csb-y1vv7m/static/js/main.5e2855a4.chunk.js.map",
+    "runtime-main.js": "https://moathalzoubi.github.io/csb-y1vv7m/static/js/runtime-main.feee3fef.js",
+    "runtime-main.js.map": "https://moathalzoubi.github.io/csb-y1vv7m/static/js/runtime-main.feee3fef.js.map",
+    "static/css/2.a23a9e02.chunk.css": "https://moathalzoubi.github.io/csb-y1vv7m/static/css/2.a23a9e02.chunk.css",
+    "static/js/2.c7487451.chunk.js": "https://moathalzoubi.github.io/csb-y1vv7m/static/js/2.c7487451.chunk.js",
+    "static/js/2.c7487451.chunk.js.map": "https://moathalzoubi.github.io/csb-y1vv7m/static/js/2.c7487451.chunk.js.map",
+    "index.html": "https://moathalzoubi.github.io/csb-y1vv7m/index.html",
+    "static/css/2.a23a9e02.chunk.css.map": "https://moathalzoubi.github.io/csb-y1vv7m/static/css/2.a23a9e02.chunk.css.map",
+    "static/css/main.6896ab3d.chunk.css.map": "https://moathalzoubi.github.io/csb-y1vv7m/static/css/main.6896ab3d.chunk.css.map",
+    "static/js/2.c7487451.chunk.js.LICENSE.txt": "https://moathalzoubi.github.io/csb-y1vv7m/static/js/2.c7487451.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feee3fef.js",
+    "static/css/2.a23a9e02.chunk.css",
+    "static/js/2.c7487451.chunk.js",
+    "static/css/main.6896ab3d.chunk.css",
+    "static/js/main.5e2855a4.chunk.js"
+  ]
+}
